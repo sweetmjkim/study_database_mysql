@@ -1,0 +1,4 @@
+-- DELETE FROM table_name WHERE condition;
+
+DELETE FROM VISITOR
+WHERE VISITOR_ID = 'VISITE_11';
